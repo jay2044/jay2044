@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jay2044
-- 👀 I’m interested in programming, software developement, game develoement.
+- 👀 I’m interested in programming, software developement, machine learning.
 - 🌱 I’m currently learning computer science as a bachelors degree.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email: jayaadithya2004@gmail.com
 
 <!---
