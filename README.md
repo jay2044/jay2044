@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jay2044
-- 👀 I’m interested in programming, software developement, machine learning.
+- 👀 I’m interested in programming, software developement.
 - 🌱 I’m currently pursuing a Bachelor's degree in Computer Science at Arizona State University.
 - 📫 How to reach me email: jayaadithya2004@gmail.com
 
