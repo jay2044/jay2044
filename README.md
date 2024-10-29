@@ -1,11 +1,3 @@
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jay2044&show_icons=true&theme=dark&langs_count=20&layout=compact)](https://github.com/anuraghazra/github-readme-stats)    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jay2044&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=jay2044&theme=dark)](https://git.io/streak-stats)
-
-
-
-
 ![Hey, im Jay](https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzAxNzg0NTQsIm5iZiI6MTczMDE3ODE1NCwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDI5VDA1MDIzNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTA2ZjgzYzBhNTBmZjZiOWY0NGE0ZmQyMmNjOWM1ZWU0ODlkOWVhOGFkYzcwNTU2MGJhZGYyZjBlNzQ0ZWYxMzkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.KgzWmhzFxp9QsE6xT1IETKUN6sKrLi5c5RBRknmvA04)
 
 <div id="toc">
@@ -37,15 +29,14 @@
  **<h3 align="left">GitHub Stats</h3>**
 
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jay2044&theme=dark&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&line_height=23&layout=compact" alt="GitHub stats Card" />
   <img width="48%" src="https://streak-stats.demolab.com/?user=jay2044&theme=dark&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jay2044&theme=dark&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&line_height=23&layout=compact" alt="GitHub stats Card" />
 </p>
 
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=jay2044&theme=dark&hide_title=false&layout=compact&langs_count=20&hide_progress=false&card_width=400&show_icons=true" alt="GitHub top-langs Card" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=jay2044&repo=Bubble&bg_color=35%2C2dd4bf%2C784BA0%2C2B86C5&show_owner=true&title_color=fff&text_color=fff&icon_color=fff" alt="GitHub repo-card Card" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=jay2044&repo=ADM-2&bg_color=35%2C2dd4bf%2C784BA0%2C2B86C5&show_owner=true&title_color=fff&text_color=fff&icon_color=fff" alt="GitHub repo-card Card" />
 </p>
-
 
 
 <!---
