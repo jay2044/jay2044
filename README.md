@@ -48,6 +48,8 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=jay2044&theme=dark&hide_title=false&layout=compact&langs_count=20&hide_progress=false&card_width=400&show_icons=true" alt="GitHub top-langs Card" />
 </p>
 
+[View my Interactive GitHub Contribution Skyline](https://git-skyline.huakun.tech/contribution/github/jay2044/embed)
+
 
 <!---
 jay2044/jay2044 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
