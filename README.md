@@ -17,10 +17,10 @@
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **🔍 Developing a task manager with Python, PyQt6, SQLite, and training AlfredX 🤖 with LLaMA 3.1 for AI-driven task automation and natural language understanding.**
-- 🏫 I’m currently pursuing a Bachelor's degree in Computer Science at Arizona State University.
-- 🌱 I'm currently learning: **📘 Mastering C++, researching LLMs and AI intergration, and strengthening software development skills.**
-- 💬 Ask me about: **💡 Python, C++, Java, C, Prolog, Scheme**
+- 💼 I'm currently working on developing a task manager with Python, PyQt6, and SQLite, while also training AlfredX with LLaMA 3.1 for AI-driven task automation and natural language understanding.
+- 🏫 I’m pursuing a Bachelor's degree in Computer Science at Arizona State University.
+- 🌱 I'm learning C++ mastery, exploring LLMs and AI integration, and strengthening my software development skills.
+- 💬 Ask me about Python, C++, Java, C, Prolog, and Scheme.
 
  **<h3 align="left">Skills</h3>**
 
