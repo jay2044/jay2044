@@ -1,4 +1,4 @@
-![Hey, im Jay](242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b)
+![Hey, im Jay](242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif)
 
 <div id="toc">
   <ul align="center" style="list-style: none">
