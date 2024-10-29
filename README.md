@@ -35,7 +35,6 @@
 
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=jay2044&theme=dark&hide_title=false&layout=compact&langs_count=20&hide_progress=false&card_width=400&show_icons=true" alt="GitHub top-langs Card" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=jay2044&repo=ADM-2&bg_color=35%2C2dd4bf%2C784BA0%2C2B86C5&show_owner=true&title_color=fff&text_color=fff&icon_color=fff" alt="GitHub repo-card Card" />
 </p>
 
 
