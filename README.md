@@ -44,7 +44,7 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jay2044&theme=dark&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&line_height=23&layout=compact" alt="GitHub stats Card" />
 </p>
 
-<p align="left">
+<p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=jay2044&theme=dark&hide_title=false&layout=compact&langs_count=20&hide_progress=false&card_width=400&show_icons=true" alt="GitHub top-langs Card" />
 </p>
 
