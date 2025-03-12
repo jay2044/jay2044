@@ -24,14 +24,13 @@
 </p>
 
 
- **<h3 align="left">Software developer skilled in Python, C++, and Java, with a focus on data structures, algorithms, and full-stack projects. Experienced in user-centric design, performance optimization, and innovative solutions. Passionate about building efficient, scalable applications.</h3>**
+**<h3 align="left">Software developer skilled in Python, C++, and Java, with a focus on data structures, algorithms, and full-stack projects. Experienced in user-centric design and performance optimization, with a passion for building efficient, scalable applications.</h3>**  
 
-**<h3 align="left">Rapid Fire</h3>**
-
-- 💼 I'm currently working on developing a task manager with Python, PyQt6, and SQLite, while also training AlfredX with LLaMA 3.1 for AI-driven task automation and natural language understanding.
-- 🏫 I’m pursuing a Bachelor's degree in Computer Science at Arizona State University.
-- 🌱 I'm learning C++ mastery, exploring LLMs and AI integration, and strengthening my software development skills.
-- 💬 Ask me about Python, C++, Java, C, Prolog, and Scheme.
+**<h3 align="left">Quick Facts</h3>**  
+- 💼 Currently developing a task manager using Python, PyQt6, and SQLite, while training AlfredX with LLaMA 3.1 for AI-driven task automation and natural language understanding.  
+- 🏫 Pursuing a Bachelor's degree in Computer Science at Arizona State University.  
+- 🌱 Focused on mastering C++, exploring LLMs and AI integration, and improving software development skills.  
+- 💬 Proficient in Python, C++, C, Java. 
 
  **<h3 align="left">Skills</h3>**
 
