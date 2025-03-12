@@ -24,13 +24,14 @@
 </p>
 
 
-**<h3 align="left">Software developer skilled in Python, C++, and Java, with a focus on data structures, algorithms, and full-stack projects. Experienced in user-centric design and performance optimization, with a passion for building efficient, scalable applications.</h3>**  
+**<h3 align="left">Software developer experienced in Python, C++, C, and Java, specializing in developing efficient and scalable applications. Skilled in algorithmic problem-solving, GUI development, and integrating AI-driven features to solve real-world problems.</h3>**  
 
-**<h3 align="left">Quick Facts</h3>**  
-- 💼 Currently developing a task manager using Python, PyQt6, and SQLite, while training AlfredX with LLaMA 3.1 for AI-driven task automation and natural language understanding.  
-- 🏫 Pursuing a Bachelor's degree in Computer Science at Arizona State University.  
-- 🌱 Focused on mastering C++, exploring LLMs and AI integration, and improving software development skills.  
-- 💬 Proficient in Python, C++, C, Java. 
+**<h3 align="left">Quick Facts</h3>**
+
+- 💻 Currently building **ADM-2**, a Python and PyQt6-based task management app, and **AITA**, an AI teaching assistant using LangChain, LangGraph, and Weaviate for context-aware programming support.
+- 🎓 Pursuing a Bachelor's in Computer Science at Arizona State University.
+- 🛠️ Actively enhancing skills in C++, Large Language Models (LLMs), AI integration, and software engineering.
+- 💡 Strong proficiency in Python, C++, C, and Java.
 
  **<h3 align="left">Skills</h3>**
 
