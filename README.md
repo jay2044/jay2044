@@ -47,7 +47,7 @@
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
   <img width="48%" src="https://github-readme-stats-sigma-mocha-90.vercel.app/api/top-langs?username=jay2044&theme=dark&hide_title=false&layout=compact&langs_count=20&hide_progress=false&card_width=400&show_icons=true&count_private=true" alt="GitHub top-langs Card" />
-  <img src="nyochio-d4dj.gif" width="360" height="auto" />
+  <img src="nyochio-d4dj.gif" width="36%" height="auto" />
 </div>
 
 
