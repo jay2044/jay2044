@@ -1,5 +1,6 @@
 ![Hey, im Jay](242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif)
 
+
 <div id="toc">
   <ul align="center" style="list-style: none">
     <summary>
@@ -44,9 +45,10 @@
   <img width="48%" src="https://github-readme-stats-sigma-mocha-90.vercel.app/api?username=jay2044&theme=dark&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&line_height=23&layout=compact&count_private=true" alt="GitHub stats Card" />
 </p>
 
-<p align="center">
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
   <img width="48%" src="https://github-readme-stats-sigma-mocha-90.vercel.app/api/top-langs?username=jay2044&theme=dark&hide_title=false&layout=compact&langs_count=20&hide_progress=false&card_width=400&show_icons=true&count_private=true" alt="GitHub top-langs Card" />
-</p>
+  <img src="nyochio-d4dj.gif" width="360" height="auto" />
+</div>
 
 
 <!---
