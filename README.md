@@ -67,7 +67,10 @@ Experienced in **Python**, **C++**, **C**, and **Java**, specializing in develop
   </a>
 </p>
 
-![hi](https://komarev.com/ghpvc/?username=jay2044)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jay2044&style=for-the-badge" alt="Profile views"/>
+</p>
+
 <!---
 jay2044/jay2044 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
