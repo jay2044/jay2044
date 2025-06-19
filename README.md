@@ -12,7 +12,7 @@
 </div>
 
 
-Computer Science at ASU focused on AI research, mainly in NLP and reasoning. Experienced with C++ and Python. Currently working on scalable AI systems and research-driven projects.
+Computer Science at ASU focused on AI research, mainly in LLMs and reasoning. Experienced with C++ and Python. Currently working on scalable AI systems and research-driven projects.
 
 ---
 
