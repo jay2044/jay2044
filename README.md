@@ -12,19 +12,7 @@
 </div>
 
 
-## 👨‍💻 Software Developer  
-Experienced in **Python**, **C++**, **C**, and **Java**, specializing in developing efficient and scalable applications. Skilled in algorithmic problem-solving, GUI development, and integrating AI-driven features to solve real-world problems.
-
----
-
-## 📊 Core Stats  
-
-| Category | Details |
-|----------|---------|
-| **💻 Building** | **ADM-2** – Task manager in Python/PyQt6, OR-Tools<br>**AITA** – AI teaching assistant using LangChain, LangGraph, and Weaviate |
-| **🎓 Education** | B.S. in **Computer Science** – Arizona State University |
-| **🛠️ Improving Skills** | C++, AI (LLMs, Agents), and software engineering |
-| **💡 Strong in** | Python, C++, C, and Java |
+Computer Science at ASU focused on AI research, mainly in NLP and reasoning. Experienced with C++ and Python. Currently working on scalable AI systems and research-driven projects.
 
 ---
 
@@ -40,15 +28,6 @@ Experienced in **Python**, **C++**, **C**, and **Java**, specializing in develop
   <img src="nyochio-d4dj.gif" width="36%" height="auto" />
 </div>
 
-## 🛠️ Technical Skills  
-
-| **Category** | **Skills** |
-|-------------|------------|
-| **Programming/Scripting** | Python, C++, Java, C, C#, JavaScript, TypeScript, Prolog, Scheme, Bash, SQL, MATLAB |
-| **AI/ML/Data Processing** | Hugging Face Transformers, NumPy, OpenAI API, OpenCV, Pandas, PyTorch, TensorFlow |
-| **Web Development** | HTML5, CSS3, React, Next.js, Bootstrap, Tailwind CSS, Node.js, Express.js, RESTful APIs |
-| **Database Management** | MongoDB, MySQL, PostgreSQL, SQLite, Mongoose ODM, Weaviate |
-| **Tools/Frameworks** | Git/GitHub, Tkinter, JavaFX, Qt/PyQt, Docker, Linux (shell scripting), Selenium, .NET, JUnit, Jira |
 
 
 
